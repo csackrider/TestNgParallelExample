@@ -1,2 +1,5 @@
-# TestNgParallelExample
-an example project using testNG and running some basic tests in parallel
+# Use testNg to run tests in parallel
+
+An example of using testNG and running some basic selenium tests in parallel.
+
+
